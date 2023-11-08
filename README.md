@@ -1,12 +1,13 @@
 ## Hi, I am Jessica! 
+<p align="center">
 </br>
 
  <div>
   <a href="https://github.com/jfdmagalhaes">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfdmagalhaes&layout=compact&langs_count=16&theme=dracula"/>
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jfdmagalhaes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+
 </div>
- 
 </br>
 
 ## Contact 
@@ -31,3 +32,7 @@
     src="https://raw.githubusercontent.com/jfdmagalhaes/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
