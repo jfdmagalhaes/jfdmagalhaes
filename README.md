@@ -18,17 +18,5 @@
 </br> 
 </div>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/jfdmagalhaes/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/jfdmagalhaes/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
